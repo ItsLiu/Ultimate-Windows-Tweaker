@@ -9,7 +9,7 @@ Windows-Optimizer is a batch script designed to help users optimize their Window
 - Simple and lightweight batch script, which is easy to understand
 
 ## How to use
-1. Download the latest release of the script from the [releases page](https://github.com/username/Windows-Optimizer/releases).
+1. Download the latest release of the script from the [releases page](https://github.com/ItsLiu/Ultimate-Windows-Tweaker/releases/).
 2. Right-click the script file and select "Run as administrator".
 3. Choose a preset optimization or individual tweaks to apply.
 4. Follow the on-screen instructions and restart the computer if prompted.
