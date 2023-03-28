@@ -46,5 +46,5 @@ Windows-Optimizer is a batch script designed to help users optimize their Window
 - <img src="https://user-images.githubusercontent.com/90653578/228107720-3090f9ec-ea44-41af-bb99-d2c31409e4b8.png" width="700">
 
 ## License
-- This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
