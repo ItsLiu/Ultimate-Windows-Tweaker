@@ -30,6 +30,7 @@ Windows-Optimizer is a batch script designed to help users optimize their Window
 - The script also includes individual tweaks that can be applied based on the user's specific needs.
 
 ## Future Plans
+- Next update each Function will be a seperate script
 - Be able to Enable/Disable Tweaks and Presets
 - Possibly update UI by migrating the code to Python
 - Add more Indivdual Tweaks/Optimizations  
