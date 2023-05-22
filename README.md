@@ -1,3 +1,6 @@
+# I have decided to no longer work on this, project If you stumble upon this and want to use it make sure to read the Disclaimer.
+# Make sure to only use one Preset, note that you cannot undo what the preset applied use with caution as applying more than one can cause windows to not boot or cause data loss/system instability
+
 # Windows-Optimizer
 
 Windows-Optimizer is a batch script designed to help users optimize their Windows 10 system for their specific needs. This script provides various optimization presets to choose from, including General Optimization, Gaming Optimization, Network Optimization, High Performance Optimization, Low End PC Optimization, Privacy Optimization, Office Productivity Optimization, Creative Work Optimization, Developer Optimization, and Power Saver Optimization.
